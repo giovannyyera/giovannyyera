@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá, eu sou o Giovanny! 👋
 
-<!--
-**giovannyyera/giovannyyera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mim
 
-Here are some ideas to get you started:
+Sou um programador apaixonado por transformar ideias em realidade. Atualmente, estou focado em **JavaScript** e no desenvolvimento de soluções inovadoras.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 **Atualmente:** Co-fundando uma **startup** focada em otimização de rotas e tecnologia.
+* 💻 **Estudando:** JavaScript, Lógica de Programação e Estrutura de Dados.
+* 🏃 **Hobbies:** Busco o equilíbrio entre código e saúde através da corrida e bons hábitos alimentares.
+* 🎯 **Objetivo:** Criar aplicações que impactem a vida das pessoas e me aprofundar no ecossistema Web.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Giovanny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Giovanny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Giovanny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Giovanny-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Giovanny-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+</div>
+
+---
+
+### 📬 Conecte-se comigo
+
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
+<a href="mailto:SEU-EMAIL-AQUI@GMAIL.COM">
+  <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+
+---
+
+![Giovanny's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovannyera&show_icons=true&theme=tokyonight)
