@@ -19,12 +19,6 @@ Sou um desenvolvedor apaixonado por transformar regras de negócio em soluções
   </a>
 </p>
 
-### 📊 Estatísticas
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=giovannyyera&show_icons=true&theme=transparent&hide_border=true&title_color=1F8ACB&icon_color=1F8ACB" alt="Estatísticas do Giovanny" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannyyera&layout=compact&theme=transparent&hide_border=true&title_color=1F8ACB" alt="Linguagens mais usadas" height="165"/>
-</p>
 
 ### 📬 Conecte-se comigo
 
