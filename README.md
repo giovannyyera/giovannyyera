@@ -22,7 +22,7 @@ Sou um desenvolvedor apaixonado por transformar regras de negócio em soluções
 
 ### 📬 Conecte-se comigo
 
-<a href="https://www.linkedin.com/in/giovannyyera/" target="_blank">
+<a href="https://www.linkedin.com/in/giovanny-yera-732327319/">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:giovannyyera.mo@gmail.com" target="_blank">
