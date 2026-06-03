@@ -1,21 +1,20 @@
 # Olá, eu sou o Giovanny Yera! 👋
 
-**Estudante de Ciência da Computação | Estagiário em Desenvolvimento e TI**
+**Estudante de Ciência da Computação | Dev Junior**
 
-Sou um desenvolvedor apaixonado por transformar regras de negócio em soluções eficientes. Tenho transicionado minha base técnica em Desenvolvimento de Sistemas (SENAI) para o Bacharelado em Ciência da Computação (FEMA), unindo a teoria acadêmica à prática exigida pelo mercado. Atualmente, atuo como Estagiário, focando no desenvolvimento de sistemas internos, correção de falhas e infraestrutura tecnológica.
+Sou um desenvolvedor apaixonado por transformar regras de negócio em soluções eficientes. Tenho transicionado minha base técnica em Desenvolvimento de Sistemas (SENAI) para o Bacharelado em Ciência da Computação (FEMA), unindo a teoria acadêmica à prática exigida pelo mercado. Atualmente, atuo como Desenvolvedor Júnior, focando no desenvolvimento, manutenção e evolução de sistemas, criação de funcionalidades, integração com APIs, consultas em banco de dados e correção de falhas em aplicações..
 
 ### 🚀 Sobre mim
 
-- 💻 **Atualmente trabalhando em:** Desenvolvimento de sistemas corporativos full-stack no meu estágio.
-- 📚 **Atualmente estudando:** Estruturas de Dados, C++, Java, ecossistema JavaScript (React, Next.js) e modelagem de dados (MySQL/PostgreSQL).
+- 💻 **Atualmente trabalhando em:** Desenvolvimento, manutenção e evolução de sistemas, atuando com aplicações web, APIs, banco de dados e correção de falhas.
 - 🎯 **Objetivo:** Colaborar com o desenvolvimento de softwares inovadores, atuando com proatividade para resolver problemas complexos e agregar valor real aos resultados.
-- 🏃‍♂️ **Hobbies:** Busco o equilíbrio constante entre linhas de código e saúde física através da corrida e de bons hábitos.
+- 🏃‍♂️ **Hobbies:** Busco o equilíbrio constante entre linhas de código e saúde física através da corrida.
 
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,cpp,java,mysql,postgres,html,css,git,github,vscode" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,cpp,java,mysql,postgres,html,css,git,github,vscode,php,docker,py" alt="Tech Stack" />
   </a>
 </p>
 
