@@ -8,7 +8,6 @@ Sou um desenvolvedor apaixonado por transformar regras de negócio em soluções
 
 - 💻 **Atualmente trabalhando em:** Desenvolvimento, manutenção e evolução de sistemas, atuando com aplicações web, APIs, banco de dados e correção de falhas.
 - 🎯 **Objetivo:** Colaborar com o desenvolvimento de softwares inovadores, atuando com proatividade para resolver problemas complexos e agregar valor real aos resultados.
-- 🏃‍♂️ **Hobbies:** Busco o equilíbrio constante entre linhas de código e saúde física através da corrida.
 
 ### 🛠️ Tecnologias e Ferramentas
 
