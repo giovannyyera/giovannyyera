@@ -1,12 +1,12 @@
-# Olá, eu sou o Giovanny Yera! 👋
+# Giovanny Yera 👋
 
-**`</> Transformando regras de negócio em soluções eficientes.`**
+`Desenvolvedor de Software`
 
-Bem-vindo ao meu espaço! Aqui é onde construo meus projetos, realizo experimentos e compartilho minha evolução em código. Para ver minha trajetória profissional completa e formação, sinta-se à vontade para conferir meu [LinkedIn](https://www.linkedin.com/in/giovanny-yera-732327319/). 
+Sou um desenvolvedor focado em transformar regras de negócio em soluções web eficientes. Tenho experiência prática com criação de APIs, modelagem e consultas em banco de dados, e evolução contínua de sistemas. Com formação técnica pelo SENAI e atualmente cursando Ciência da Computação na FEMA, busco aplicar as melhores práticas de mercado para construir aplicações modernas e bem estruturadas.
 
-Abaixo, um pouco do que eu utilizo para dar vida às ideias:
+---
 
-### 🛠️ Minha Stack
+### 🧰 Linguagens e Ferramentas
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -14,16 +14,7 @@ Abaixo, um pouco do que eu utilizo para dar vida às ideias:
   </a>
 </p>
 
-### 📊 Minhas Estatísticas
-
-<p align="left">
-  <a href="https://github.com/giovannyyera">
-    <img src="https://github-readme-stats.vercel.app/api?username=giovannyyera&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&v=1" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/giovannyyera">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannyyera&layout=compact&theme=dracula&hide_border=true&v=1" alt="Top Languages" />
-  </a>
-</p>
+---
 
 ### 📬 Conecte-se comigo
 
