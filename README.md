@@ -1,15 +1,12 @@
 # Olá, eu sou o Giovanny Yera! 👋
 
-**Estudante de Ciência da Computação | Dev Junior**
+**`</> Transformando regras de negócio em soluções eficientes.`**
 
-Sou um desenvolvedor apaixonado por transformar regras de negócio em soluções eficientes. Tenho transicionado minha base técnica em Desenvolvimento de Sistemas (SENAI) para o Bacharelado em Ciência da Computação (FEMA), unindo a teoria acadêmica à prática exigida pelo mercado. Atualmente, atuo como Desenvolvedor Júnior, focando no desenvolvimento, manutenção e evolução de sistemas, criação de funcionalidades, integração com APIs, consultas em banco de dados e correção de falhas em aplicações..
+Bem-vindo ao meu espaço! Aqui é onde construo meus projetos, realizo experimentos e compartilho minha evolução em código. Para ver minha trajetória profissional completa e formação, sinta-se à vontade para conferir meu [LinkedIn](https://www.linkedin.com/in/giovanny-yera-732327319/). 
 
-### 🚀 Sobre mim
+Abaixo, um pouco do que eu utilizo para dar vida às ideias:
 
-- 💻 **Atualmente trabalhando em:** Desenvolvimento, manutenção e evolução de sistemas, atuando com aplicações web, APIs, banco de dados e correção de falhas.
-- 🎯 **Objetivo:** Colaborar com o desenvolvimento de softwares inovadores, atuando com proatividade para resolver problemas complexos e agregar valor real aos resultados.
-
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Minha Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -17,6 +14,16 @@ Sou um desenvolvedor apaixonado por transformar regras de negócio em soluções
   </a>
 </p>
 
+### 📊 Minhas Estatísticas
+
+<p align="left">
+  <a href="https://github.com/giovannyyera">
+    <img src="https://github-readme-stats.vercel.app/api?username=giovannyyera&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&v=1" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/giovannyyera">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannyyera&layout=compact&theme=dracula&hide_border=true&v=1" alt="Top Languages" />
+  </a>
+</p>
 
 ### 📬 Conecte-se comigo
 
